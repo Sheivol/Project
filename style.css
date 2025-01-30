@@ -166,12 +166,13 @@ body {
 }
 
 .lovetext{
-    font-family: 'Playwrite IN', sans-serif;
-    font-weight: 100;
     margin-top: 30px;
+
 }
 
 .love-content{
+    font-family: 'Playwrite IN';
+    font-weight: 200;
     color: white;
     font-size: 15px;
     text-align: center;
